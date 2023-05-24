@@ -23,8 +23,10 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-Ensure that the directories `simulations/`, `logs/` and `saved_models/` are writable.
-
+Ensure that the directories `simulations/`, `logs/`, `figs/` and `saved_models/` are writable.
+```
+mkdir simulations logs figs saved_models
+```
 
 ### Running quick demonstration of the projection layer
 Learn a simple chemical reaction system assuming the mass conservation function is known:
