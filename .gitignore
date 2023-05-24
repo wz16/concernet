@@ -1,1 +1,6 @@
 *.pt
+*.pyc
+*.tar
+*.png
+*.pickle
+*.txt
