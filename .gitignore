@@ -4,3 +4,4 @@
 *.png
 *.pickle
 *.txt
+!requirements.txt
