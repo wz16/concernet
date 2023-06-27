@@ -1,5 +1,5 @@
 ## ConCerNet: A Contrastive Learning Based Framework for Automated Conservation Law Discovery and Trustworthy Dynamical System Prediction
-This is the official implementation of paper: ConCerNet: A Contrastive Learning Based Framework for Automated Conservation Law Discovery and Trustworthy Dynamical System Prediction
+This is the official implementation of paper (accepted at ICML 2023): ConCerNet: A Contrastive Learning Based Framework for Automated Conservation Law Discovery and Trustworthy Dynamical System Prediction
 
 The ConCerNet framework includes two separate steps:
 * using contrastive learning to automatically learn conservation law from trajectory data. 
